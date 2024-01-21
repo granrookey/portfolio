@@ -1,17 +1,28 @@
 ---
-title: "Splash Page"
+title: "Hello, World"
 layout: splash
-<!-- permalink: /splash-page/ -->
-date: 2016-03-23T11:48:41-04:00
+# <!-- permalink: /splash-page/ -->
+date: 2024-01-21T23:12:00-09:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  # overlay_color: "#000"
+  # overlay_filter: "0.5"
   overlay_image: /assets/images/mainBanner.png
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  # actions:
+  #   - label: "Download"
+  #     url: "https://github.com/mmistakes/minimal-mistakes/"
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "다양한 프로젝트 경험 : Bixby, Samsung Internet, Samsung Galaxy Store, Embedded, LG VS본부
+다양한 역할 수행 : Application, Backend, Data Engineering / Analytics, Infra(DevOps), QA 등
+신규 프로젝트 다수 참여 : Bixby, Search Platform,Internet 신기능, QT, KTD 멘토링 등
+다양한 개발 환경 경험 : Linux / Windows, Cloud(AWS), Git, Gerrit, SVN, AOS, Jira, Confluence, Slack 등
+Usage Skill
+Language : Python, Java, C, C++, Javascript, HTML, CSS, R, SQL
+Data : Pandas, Tensorflow, Tableau,  DataDog, Sumo Logic
+Database : PostgreSQL, MongoDB, ElasticSearch, MySQL, SQLite, InfluxDB, Redshift
+Application : Android, QT, Flutter
+Backend : Django, Spring, Node.js
+DevOps : Docker, CircleCI, Jenkins, Ansible, JMeter, Grafana
+"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
