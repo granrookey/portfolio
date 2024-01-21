@@ -22,7 +22,7 @@ Language : Python, Java, C, C++, Javascript, HTML, CSS, R, SQL\n\n
 Data : Pandas, Tensorflow, Tableau,  DataDog, Sumo Logic\n\n
 Database : PostgreSQL, MongoDB, ElasticSearch, MySQL, SQLite, InfluxDB, Redshift\n\n
 Application : Android, QT, Flutter\n\n
-Backend : Django, Spring, Node.js\n\n
+Backend : Django, Spring, Node.js<br>
 DevOps : Docker, CircleCI, Jenkins, Ansible, JMeter, Grafana'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
