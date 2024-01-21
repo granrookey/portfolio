@@ -13,17 +13,17 @@ header:
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "프로젝트에 필요한 궁금증은 여기에서!"
 intro:
-  - excerpt: '다양한 프로젝트 경험 : Bixby, Samsung Internet, Samsung Galaxy Store, Embedded, LG VS본부\n
-다양한 역할 수행 : Application, Backend, Data Engineering / Analytics, Infra(DevOps), QA 등\n
-신규 프로젝트 다수 참여 : Bixby, Search Platform,Internet 신기능, QT, KTD 멘토링 등\n
-다양한 개발 환경 경험 : Linux / Windows, Cloud(AWS), Git, Gerrit, SVN, AOS, Jira, Confluence, Slack 등\n
-Usage Skill\n
-Language : Python, Java, C, C++, Javascript, HTML, CSS, R, SQL\n
-Data : Pandas, Tensorflow, Tableau,  DataDog, Sumo Logic\n
-Database : PostgreSQL, MongoDB, ElasticSearch, MySQL, SQLite, InfluxDB, Redshift\n
-Application : Android, QT, Flutter\n
-Backend : Django, Spring, Node.js\n
-DevOps : Docker, CircleCI, Jenkins, Ansible, JMeter, Grafana\n `type="center"`'
+  - excerpt: '다양한 프로젝트 경험 : Bixby, Samsung Internet, Samsung Galaxy Store, Embedded, LG VS본부  
+다양한 역할 수행 : Application, Backend, Data Engineering / Analytics, Infra(DevOps), QA 등  
+신규 프로젝트 다수 참여 : Bixby, Search Platform,Internet 신기능, QT, KTD 멘토링 등  
+다양한 개발 환경 경험 : Linux / Windows, Cloud(AWS), Git, Gerrit, SVN, AOS, Jira, Confluence, Slack 등  
+Usage Skill  
+Language : Python, Java, C, C++, Javascript, HTML, CSS, R, SQL  
+Data : Pandas, Tensorflow, Tableau,  DataDog, Sumo Logic  
+Database : PostgreSQL, MongoDB, ElasticSearch, MySQL, SQLite, InfluxDB, Redshift  
+Application : Android, QT, Flutter  
+Backend : Django, Spring, Node.js</br>
+DevOps : Docker, CircleCI, Jenkins, Ansible, JMeter, Grafana'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
