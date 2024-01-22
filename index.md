@@ -1,5 +1,5 @@
 ---
-title: "Hello, World"
+title: "Hello, World!"
 layout: splash
 # <!-- permalink: /splash-page/ -->
 date: 2024-01-21T23:12:00-09:00
@@ -11,19 +11,18 @@ header:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "프로젝트에 필요한 궁금증은 여기에서!"
+excerpt: "**다양한 프로젝트 경험** : Bixby, Samsung Internet, Samsung Galaxy Store, Embedded, LG VS본부<br>
+**다양한 역할 수행** : Application, Backend, Data Engineering / Analytics, Infra(DevOps), QA 등<br>
+**신규 프로젝트 다수 참여** : Bixby, Search Platform,Internet 신기능, QT, KTD 멘토링 등<br>
+**다양한 개발 환경 경험** : Linux / Windows, Cloud(AWS), Git, Gerrit, SVN, AOS, Jira, Confluence, Slack 등<br>"
 intro:
-  - excerpt: '*다양한 프로젝트 경험* : Bixby, Samsung Internet, Samsung Galaxy Store, Embedded, LG VS본부<br>
-*다양한 역할 수행* : Application, Backend, Data Engineering / Analytics, Infra(DevOps), QA 등<br>
-*신규 프로젝트 다수 참여* : Bixby, Search Platform,Internet 신기능, QT, KTD 멘토링 등<br>
-*다양한 개발 환경 경험* : Linux / Windows, Cloud(AWS), Git, Gerrit, SVN, AOS, Jira, Confluence, Slack 등<br>
-**Usage Skill**<br>
+  - excerpt: "**Usage Skill**<br>
 Language : Python, Java, C, C++, Javascript, HTML, CSS, R, SQL<br>
-Data : Pandas, Tensorflow, Tableau,  DataDog, Sumo Logic<br>
+Data : Pandas, Tensorflow, Tableau, DataDog, Sumo Logic<br>
 Database : PostgreSQL, MongoDB, ElasticSearch, MySQL, SQLite, InfluxDB, Redshift<br>
 Application : Android, QT, Flutter<br>
 Backend : Django, Spring, Node.js<br>
-DevOps : Docker, CircleCI, Jenkins, Ansible, JMeter, Grafana'
+DevOps : Docker, CircleCI, Jenkins, Ansible, JMeter, Grafana"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -66,7 +65,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
