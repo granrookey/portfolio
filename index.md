@@ -11,18 +11,20 @@ header:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "**다양한 프로젝트 경험** : Bixby, Samsung Internet, Samsung Galaxy Store, Embedded, LG VS본부<br>
-**다양한 역할 수행** : Application, Backend, Data Engineering / Analytics, Infra(DevOps), QA 등<br>
-**신규 프로젝트 다수 참여** : Bixby, Search Platform,Internet 신기능, QT, KTD 멘토링 등<br>
-**다양한 개발 환경 경험** : Linux / Windows, Cloud(AWS), Git, Gerrit, SVN, AOS, Jira, Confluence, Slack 등<br>"
+- excerpt: "**Projects**<br>
+Bixby, Samsung Internet, Samsung Galaxy Store, Embedded, LG VS본부<br>
+**Roles**<br>
+ Application, Backend, Data Engineering / Analytics, Infra(DevOps), QA 등"
+# **신규 프로젝트 다수 참여** : Bixby, Search Platform,Internet 신기능, QT, KTD 멘토링 등<br>
+# **다양한 개발 환경 경험** : Linux / Windows, Cloud(AWS), Git, Gerrit, SVN, AOS, Jira, Confluence, Slack 등<br>"
 intro:
-  - excerpt: "**Usage Skill**<br>
-Language : Python, Java, C, C++, Javascript, HTML, CSS, R, SQL<br>
-Data : Pandas, Tensorflow, Tableau, DataDog, Sumo Logic<br>
-Database : PostgreSQL, MongoDB, ElasticSearch, MySQL, SQLite, InfluxDB, Redshift<br>
-Application : Android, QT, Flutter<br>
-Backend : Django, Spring, Node.js<br>
-DevOps : Docker, CircleCI, Jenkins, Ansible, JMeter, Grafana"
+  - excerpt: "**Skills**<br>
+**Language** : Python, Java, C, C++, Javascript, HTML, CSS, R, SQL<br>
+**Data** : Pandas, Tensorflow, Tableau, DataDog, Sumo Logic<br>
+**Database** : PostgreSQL, MongoDB, ElasticSearch, MySQL, SQLite, InfluxDB, Redshift<br>
+**Application** : Android, QT, Flutter<br>
+**Backend** : Django, Spring, Node.js<br>
+**DevOps** : Docker, CircleCI, Jenkins, Ansible, JMeter, Grafana"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
