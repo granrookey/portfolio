@@ -11,8 +11,8 @@ header:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-- excerpt: "**Projects**<br>
-Bixby, Samsung Internet, Samsung Galaxy Store, Embedded, LG VS본부<br>
+excerpt: "**Projects**<br>
+Bixby, Samsung Internet, Samsung Galaxy Store, LG VS본부<br>
 **Roles**<br>
  Application, Backend, Data Engineering / Analytics, Infra(DevOps), QA 등"
 # **신규 프로젝트 다수 참여** : Bixby, Search Platform,Internet 신기능, QT, KTD 멘토링 등<br>
