@@ -46,7 +46,7 @@ feature_row2:
     alt: "![image-center](assets/images/bixby.svg.png){: .align-center}"
     title: "Bixby Data Analytics"
     excerpt: "
-    * Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출
+    * Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출 
     * Data ETL 및 Analyzing
     <br><br>[Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}"
     # url: "#test-link"
