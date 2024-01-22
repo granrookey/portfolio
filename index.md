@@ -45,8 +45,8 @@ feature_row2:
   - image_path: "assets/images/bixby.svg.png{: .align-center}"
     alt: "placeholder image 2"
     title: "Bixby Data Analytics"
-    excerpt: "*Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출
-    *Data ETL 및 Analyzing<br>[Button name](#link){: .btn .btn--success}"
+    excerpt: "* Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출
+    * Data ETL 및 Analyzing<br>[Button name](#link){: .btn .btn--success}"
     # url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
