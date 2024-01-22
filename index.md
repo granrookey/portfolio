@@ -42,13 +42,13 @@ intro:
 #     title: "Placeholder 3"
 #     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: "assets/images/bixby.svg.png"
+  - image_path: "assets/images/bixby.png"
     alt: "![image-center](assets/images/bixby.svg.png){: .align-center}"
     title: "Bixby Data Analytics"
     excerpt: "
-    * Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출<br>
+    ```* Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출<br>
     + Data ETL 및 Analyzing
-    [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}"
+    [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}```"
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
