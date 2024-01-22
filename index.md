@@ -45,7 +45,10 @@ feature_row2:
   - image_path: "assets/images/bixby.svg.png"
     alt: "![image-center](assets/images/bixby.svg.png){: .align-center}"
     title: "Bixby Data Analytics"
-    excerpt: ""
+    excerpt: 
+    * Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출 
+    * Data ETL 및 Analyzing
+[Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
@@ -73,10 +76,6 @@ feature_row4:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-* Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출 
-* Data ETL 및 Analyzing"
-
-[Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}
 
 {% include feature_row id="feature_row3" type="right" %}
 
