@@ -47,7 +47,7 @@ feature_row2:
     title: "Bixby Data Analytics"
     excerpt: "
     * Bibxy 서비스의 데이터 기반의 품질 분석 및 Insight 도출<br>
-    * Data ETL 및 Analyzing
+    + Data ETL 및 Analyzing
     [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}  [Button name](#link){: .btn .btn--success}"
     # url: "#test-link"
     # btn_label: "Read More"
