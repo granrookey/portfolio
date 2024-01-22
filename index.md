@@ -73,7 +73,7 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" ![image-center](assets/images/bixby.svg.png){: .align-center} %}
+{% include feature_row id="feature_row2" type="left" max-width="150px" %}
 
 
 {% include feature_row id="feature_row3" type="right" %}
